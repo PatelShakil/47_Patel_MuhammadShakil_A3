@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>John Doe</name>
+        <email>john@example.com</email>
+        <age>20</age>
+        <course>Computer Science</course>
+    </student>
+    <student>
+        <name>Jane Smith</name>
+        <email>jane@example.com</email>
+        <age>22</age>
+        <course>Information Technology</course>
+    </student>
+    <student>
+        <name>Bob Johnson</name>
+        <email>bob@example.com</email>
+        <age>21</age>
+        <course>Software Engineering</course>
+    </student>
+</students>
